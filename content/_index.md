@@ -32,7 +32,6 @@ sections:
           date_start: '2021-11-01'
           date_end: ''
           description: Synthesis of antiviral drugs @ Prof Billy Ng
-          description: Synthesis of antiviral drugs @ Prof Billy Ng
         - title: Post-Doctoral Researcher
           company: Hong Kong University
           company_url: 'https://www.hku.hk'
