@@ -105,6 +105,8 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@chem_synthesis
+    display:
+      header: true
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-7791-9670
