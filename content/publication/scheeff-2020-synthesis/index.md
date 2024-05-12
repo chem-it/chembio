@@ -1,6 +1,5 @@
 ---
-title: 'Synthesis of novel potent archazolids: pharmacology of an emerging class of
-  anticancer drugs'
+title: 'Synthesis of novel potent archazolids: pharmacology of an emerging class of anticancer drugs'
 authors:
 - Stephan Scheeff
 - Solenne Rivière
