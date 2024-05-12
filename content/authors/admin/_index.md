@@ -51,17 +51,17 @@ skills:
       - name: Research & Labwork
         description: ''
         percent: 100
-        icon: hero/beaker
+        icon: flask
         icon_pack: fas
       - name: Grant Writing
         description: ''
         percent: 100
-        icon: hero/pencil-square
+        icon: pencil
         icon_pack: fas
       - name: Mentoring
         description: ''
         percent: 100
-        icon: hero/academic-cap
+        icon: building-columns
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -103,7 +103,7 @@ social:
     icon_pack: fas
     link: "mailto:stephanscheeff@cuhk.edu.hk"
   - icon: mastodon
-    icon_pack: brands
+    icon_pack: fab
     link: https://fediscience.org/@chem_synthesis
     display:
       header: true
