@@ -12,7 +12,7 @@ authors:
 - Renee Wan Yi Chan
 - Billy Wai-Lung Ng
 date: '2023-12-05'
-abstract: "Nucleoside analogues are effective antiviral agents, and the continuous emergence of pathogenic viruses demands the development of novel and structurally diverse analogues. Here, we present the design and synthesis of novel nucleoside analogues with a carbobicyclic core, which mimics the conformation of natural ribonucleosides. Employing a divergent synthetic route featuring an intermolecular Diels–Alder reaction, we successfully synthesized carbobicyclic nucleoside analogues with high antiviral efficacy against respiratory syncytial virus."
+abstract: 'Nucleoside analogues are effective antiviral agents, and the continuous emergence of pathogenic viruses demands the development of novel and structurally diverse analogues. Here, we present the design and synthesis of novel nucleoside analogues with a carbobicyclic core, which mimics the conformation of natural ribonucleosides. Employing a divergent synthetic route featuring an intermolecular Diels–Alder reaction, we successfully synthesized carbobicyclic nucleoside analogues with high antiviral efficacy against respiratory syncytial virus.'
 featured: true
 links: 
 - name: Link to full-text
