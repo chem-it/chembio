@@ -51,18 +51,18 @@ skills:
       - name: Research & Labwork
         description: ''
         percent: 100
-        icon: beaker
-        icon_pack: hero
+        icon: hero/beaker
+        icon_pack: fas
       - name: Grant Writing
         description: ''
         percent: 100
-        icon: pencil-square
-        icon_pack: hero
+        icon: hero/pencil-square
+        icon_pack: fas
       - name: Mentoring
         description: ''
         percent: 100
-        icon: academic-cap
-        icon_pack: hero
+        icon: hero/academic-cap
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -77,6 +77,22 @@ skills:
         percent: 100
         icon: camera-retro
         icon_pack: fas
+    - name: Languages
+    color: '#cc3333'
+    color_border: '#d86262'
+    items:
+      - name: German
+        description: 'Native Language'
+        percent: 100
+      - name: English
+        description: 'Full Working Proficiency'
+        percent: 100
+      - name: Chinese (Cantonese)
+        description: 'Limited Working Proficiency'
+        percent: 65
+      - name: French
+        description: 'Elementary'
+        percent: 30
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -86,9 +102,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:stephanscheeff@cuhk.edu.hk"
-  - icon: brands/mastodon
+  - icon: mastodon
+    icon_pack: brands
     link: https://fediscience.org/@chem_synthesis
-    label: Follow me on Mastodon
     display:
       header: true
   # Link to a PDF of your resume/CV.
