@@ -9,6 +9,7 @@ sections:
     id: about
     content:
       title: Welcome
+      title: Welcome
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -30,6 +31,7 @@ sections:
           location: Hong Kong
           date_start: '2021-11-01'
           date_end: ''
+          description: Synthesis of antiviral drugs @ Prof Billy Ng
           description: Synthesis of antiviral drugs @ Prof Billy Ng
         - title: Post-Doctoral Researcher
           company: Hong Kong University
@@ -82,6 +84,14 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: skills
     content:
       title: Skills
