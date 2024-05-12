@@ -14,7 +14,9 @@ authors:
 date: '2023-12-05'
 abstract: "Nucleoside analogues are effective antiviral agents, and the continuous emergence of pathogenic viruses demands the development of novel and structurally diverse analogues. Here, we present the design and synthesis of novel nucleoside analogues with a carbobicyclic core, which mimics the conformation of natural ribonucleosides. Employing a divergent synthetic route featuring an intermolecular Diels–Alder reaction, we successfully synthesized carbobicyclic nucleoside analogues with high antiviral efficacy against respiratory syncytial virus."
 featured: true
-url_code: https://pubs.acs.org/doi/10.1021/acs.orglett.3c03590
+links: 
+- name: Link to full-text
+  url: https://pubs.acs.org/doi/10.1021/acs.orglett.3c03590
 publishDate: '2024-05-12T10:39:59.893471Z'
 publication_types:
 - article-journal
