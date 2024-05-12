@@ -25,7 +25,7 @@ organizations:
     url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephan Scheeff studied Chemistry at the Humboldt University of Berlin and received his Dr. rer. nat. (equivalent to PhD) at the University of Bonn. Since the end of 2021, he is actively engaged in research on antiviral nucleosides within the group led by Prof. Billy Ng at the Chinese University of Hong Kong.
+bio: Stephan Scheeff studied chemistry at the Humboldt University of Berlin and received his Dr. rer. nat. from the University of Bonn. He joined the research group of Prof. Billy Ng at the Chinese University of Hong Kong in the field of antiviral nucleosides.
 
 # Interests to show in About widget
 interests:
@@ -121,6 +121,8 @@ social:
 highlight_name: true
 ---
 
-Stephan Scheeff studied Chemistry at the Humboldt University of Berlin and received his Dr. rer. nat. (equivalent to PhD) at the University of Bonn. Since the end of 2021, he is actively engaged in research on antiviral nucleosides within the group led by Prof. Billy Ng at the Chinese University of Hong Kong.
+My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. I received my doctoral degree (Dr. rer. nat., equivalent to a PhD) from the University of Bonn after completing my total synthesis studies at the Humboldt University of Berlin.
+
+Since the end of 2021, I have been actively engaged in research on antiviral nucleosides as part of the research group led by Prof. Billy Ng at the Chinese University of Hong Kong. In this role, I can use my expertise in synthetic and medicinal chemistry to develop structurally novel antiviral agents.
 
 {style="text-align: justify;"}
