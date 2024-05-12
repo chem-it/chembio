@@ -12,5 +12,5 @@ publication_types:
 publication: '*Org. Lett.* **2019**, *21*, 1, 271–274'
 links: 
 - name: Link to full-text
-  url: https://testpubschina.acs.org/doi/10.1021/acs.orglett.8b03715
+  url: https://doi.org/10.1021/acs.orglett.8b03715
 ---

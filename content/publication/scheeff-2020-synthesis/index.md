@@ -17,8 +17,8 @@ abstract: "Vacuolar type ATPase (V-ATPase) has recently emerged as a promising n
 publishDate: '2024-05-12T10:39:59.857135Z'
 publication_types:
 - article-journal
-link:
+links:
 - name: link to full-text
-  url: https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b01887
+  url: https://doi.org/10.1021/acs.jmedchem.9b01887
 publication: '*J. Med. Chem.* **2020**, *63*, 4, 1684–1698'
 ---

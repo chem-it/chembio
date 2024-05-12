@@ -12,7 +12,7 @@ abstract: 'The copper-catalyzed reductive Ireland–Claisen rearrangement of pro
 date: '2021-12-17'
 links: 
 - name: Link to full-text
-  url: https://pubs.acs.org/doi/10.1021/acs.joc.1c02455
+  url: https://doi.org/10.1021/acs.joc.1c02455
 publishDate: '2024-05-12T10:39:59.863442Z'
 publication_types:
 - article-journal
