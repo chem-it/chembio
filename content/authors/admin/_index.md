@@ -77,7 +77,7 @@ skills:
         percent: 100
         icon: camera-retro
         icon_pack: fas
-    - name: Languages
+  - name: Languages
     color: '#cc3333'
     color_border: '#d86262'
     items:
