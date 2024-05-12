@@ -65,18 +65,18 @@ sections:
         - title: Post-Doctoral Researcher
           company: Chinese University of Hong Kong
           company_url: 'https://www.cuhk.edu.hk'
-          company_logo: org-CUHK
+          #company_logo: org-CUHK
           location: Hong Kong
-          date_start: '2021-11'
+          date_start: '2021-11-01'
           date_end: ''
           description: Synthesis of Antiviral Drugs at the lab of Prof Billy Ng
         - title: Post-Doctoral Researcher
           company: Hong Kong University
           company_url: 'https://www.hku.hk'
-          company_logo: org-HKU
+          #company_logo: org-HKU
           location: Hong Kong
-          date_start: '2018-11'
-          date_end: '2021-11'
+          date_start: '2018-11-01'
+          date_end: '2021-11-01'
           description: Organic Chemistry and Methods Development at the lab of Prof Pauline Chiu.
     design:
       columns: '2'  
