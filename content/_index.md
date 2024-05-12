@@ -79,9 +79,8 @@ sections:
           date_end: '2021-11'
           description: Organic Chemistry and Methods Development at the lab of Prof Pauline Chiu.
     design:
-      columns: '2'
- 
-   - block: collection
+      columns: '2'  
+  - block: collection
     id: featured
     content:
       title: Featured Publications
