@@ -65,7 +65,7 @@ sections:
         - title: Post-Doctoral Researcher
           company: Chinese University of Hong Kong
           company_url: 'https://www.cuhk.edu.hk'
-          company_logo: org-CUHK
+          #company_logo: org-CUHK
           location: Hong Kong
           date_start: '2021-11'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: Post-Doctoral Researcher
           company: Hong Kong University
           company_url: 'https://www.hku.hk'
-          company_logo: org-HKU
+          #company_logo: org-HKU
           location: Hong Kong
           date_start: '2018-11'
           date_end: '2021-11'
