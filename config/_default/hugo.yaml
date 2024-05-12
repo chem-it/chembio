@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Stephan Scheeff # Website name
-baseURL: 'https://bio.organicchemistry.eu/' # Website URL
+baseURL: 'https://me.organicchemistry.eu/' # Website URL
 
 ############################
 ## LANGUAGE
