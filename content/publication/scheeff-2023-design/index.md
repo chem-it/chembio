@@ -1,5 +1,5 @@
 ---
-title: Design and Synthesis of Bicyclo [4.3. 0] nonene Nucleoside Analogues
+title: Design and Synthesis of Bicyclo [4.3.0] nonene Nucleoside Analogues
 authors:
 - Stephan Scheeff
 - Yan Wang
