@@ -10,8 +10,8 @@ first_name: Stephan
 last_name: Scheeff
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inspired by the fascinating world of natural products, their biosynthesis, and their significant role in medicinal chemistry, I have explored the sphere of total synthesis to gain deeper insights into these unique molecules.
+bio: Stephan Scheeff studied Chemistry at the Humboldt University of Berlin and received his Dr. rer. nat. (equivalent to PhD) at the University of Bonn. Since the end of 2021, he is actively engaged in research on antiviral nucleosides within the group led by Prof. Billy Ng at the Chinese University of Hong Kong.
 
 # Interests to show in About widget
 interests:
@@ -105,6 +105,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@chem_synthesis
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7791-9670
     display:
       header: true
   # Link to a PDF of your resume/CV.
