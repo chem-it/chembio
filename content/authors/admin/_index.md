@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. I received my doctoral degree (Dr. rer. nat., equivalent to a PhD) from the University of Bonn after completing my total synthesis studies at the Humboldt University of Berlin.
+My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. I received my doctoral degree (Dr. rer. nat., equivalent to a PhD) from the University of Bonn for my total synthesis studies.
 
 Since the end of 2021, I have been actively engaged in research on antiviral nucleosides as part of the research group led by Prof. Billy Ng at the Chinese University of Hong Kong. In this role, I can use my expertise in synthetic and medicinal chemistry to develop structurally novel antiviral agents.
 
