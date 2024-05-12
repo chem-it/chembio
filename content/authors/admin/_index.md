@@ -51,15 +51,18 @@ skills:
       - name: Research & Labwork
         description: ''
         percent: 100
-        icon: hero/beaker
+        icon: beaker
+        icon_pack: hero
       - name: Grant Writing
         description: ''
-        percent: 85
-        icon: hero/pencil-square
+        percent: 100
+        icon: pencil-square
+        icon_pack: hero
       - name: Mentoring
         description: ''
-        percent: 75
-        icon: hero/academic-cap
+        percent: 100
+        icon: academic-cap
+        icon_pack: hero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,7 +74,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
