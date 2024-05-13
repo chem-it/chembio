@@ -115,4 +115,4 @@ security:
   allow_frame: true
 
 appearance:
-  color: green
+  color: blue
