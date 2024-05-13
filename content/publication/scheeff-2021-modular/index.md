@@ -11,7 +11,7 @@ abstract: 'Full details on the design, development, and successful implementatio
 publishDate: '2024-05-12T10:39:59.881352Z'
 publication_types:
 - article-journal
-link:
+links:
 - name: link to full-text
   url: https://doi.org/10.1021/acs.joc.1c00946
 publication: '*The Journal of Organic Chemistry*'
