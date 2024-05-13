@@ -122,9 +122,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since the end of 2021, I have been actively engaged in research on nucleoside analogues as part of the research group led by [Prof. Billy Ng at the Chinese University of Hong Kong](https://www.ngwailung.com/). In this role, I can use my expertise in synthetic and medicinal chemistry to develop structurally novel antiviral agents. For this work I was awarded with the [Hong Kong Postdoctoral Fellowship 2022/2023](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/). 
-
 ![Image alt](/images/funnel.png)
+
+My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since the end of 2021, I have been actively engaged in research on nucleoside analogues as part of the research group led by [Prof. Billy Ng at the Chinese University of Hong Kong](https://www.ngwailung.com/). In this role, I can use my expertise in synthetic and medicinal chemistry to develop structurally novel antiviral agents. For this work I was awarded with the [Hong Kong Postdoctoral Fellowship 2022/2023](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/). 
 
 I received my doctoral degree (Dr. rer. nat., equivalent to a PhD) for my total synthesis studies of polyketides from the University of Bonn under supervision of Prof Dirk Menche.
 
