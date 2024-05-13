@@ -10,6 +10,7 @@ abstract: 'A partial bioinspired as well as the total synthesis of archazolid F,
 publication_types:
 - article-journal
 publication: '*Org. Lett.* **2019**, *21*, 1, 271–274'
+featured: true
 links: 
 - name: Link to full-text
   url: https://doi.org/10.1021/acs.orglett.8b03715
