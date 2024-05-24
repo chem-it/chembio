@@ -22,6 +22,18 @@ sections:
     design:
       columns: '2'
       view: card
+
+  - block: post
+    content:
+      title: Recent Posts
+      filters:
+        folders:
+          - post
+        featured_only: false
+    design:
+      columns: '2'
+      view: card
+
   - block: experience
     content:
       title: Experience
