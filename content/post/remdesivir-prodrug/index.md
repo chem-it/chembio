@@ -5,5 +5,4 @@ date: 2024-05-24
 tags:
   - Medicinal Chemistry
   - Antivirals
-draft: true
 ---
