@@ -23,7 +23,7 @@ sections:
       columns: '2'
       view: card
 
-  - block: post
+  - block: collection
     content:
       title: Recent Posts
       filters:
