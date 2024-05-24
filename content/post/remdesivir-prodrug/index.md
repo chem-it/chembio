@@ -1,6 +1,6 @@
 ---
 title: "My Publication of the Week: Efficacy of Remdesivir ProDrugs"  
-summary: The efficacy of triphosphate formation of remdesivir is dependent on ProTide substitution 
+summary: The efficacy of triphosphate formation of remdesivir is dependent on ProTide substitution. Higher levels of triphosphate in the lung are observed with ProTide prodrugs.
 date: 2024-05-24
 tags:
   - Medicinal Chemistry
