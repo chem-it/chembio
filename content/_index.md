@@ -6,7 +6,6 @@ type: landing
 
 sections:
   - block: collection
-    id: blog
     content:
       title: Welcome
       subtitle: 'My latest posts and thoughts on science'
@@ -17,6 +16,7 @@ sections:
       Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow in my passion for [photography](https://unsplash.com/de/@chromatograph).
 
       Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates.'
+      
   - block: collection
     id: posts
     content:
