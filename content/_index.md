@@ -5,7 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: welcome
+  - block: collection
+    id: blog
     content:
       title: Welcome
       subtitle: 'My latest posts and thoughts on science'
