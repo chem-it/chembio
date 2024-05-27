@@ -9,8 +9,7 @@ sections:
     id: about
     content:
       title: Welcome
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      text: Testtest
   - block: collection
     id: featured
     content:
