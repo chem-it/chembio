@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4.5rem"
+  spacing: "6rem"
 
 sections:
  # - block: markdown
@@ -17,7 +17,6 @@ sections:
  #      Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
  #   design:
  #     columns: '1'
-
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -39,7 +38,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: collection
     id: news
     content:
