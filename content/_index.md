@@ -36,7 +36,7 @@ sections:
      subtitle: ''
      text: |-
      Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
-   design:
+    design:
      columns: '1'
   - block: collection
     id: news
