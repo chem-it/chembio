@@ -108,7 +108,6 @@ awards:
     url: https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/
     date: '2023-04-01'
     awarder: Hong Kong University Grants Comittee
-    icon: hero/academic-cap
 
 ---
 ## About Me
