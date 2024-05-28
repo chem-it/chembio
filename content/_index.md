@@ -8,6 +8,7 @@ design:
   # Default section spacing
   spacing: "3rem"
 
+sections:
   - block: markdown
     content:
       title: 'Welcome'
@@ -17,8 +18,7 @@ design:
     design:
       columns: '1'
 
-sections:
-  - block: resume-biography-3
+- block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
