@@ -28,8 +28,13 @@ organizations:
     url: https://www.cuhk.edu.hk/
 
 profiles:
+  - icon: at-symbol
+    url: 'mailto:stephanscheeff@cuhk.edu.hk'
+    label: Email
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7791-9670
+  - icon: brands/mastodon
+    url: https://fediscience.org/@chem_synthesis
 
 # Interests to show in About widget
 interests:
@@ -94,10 +99,19 @@ languages:
   - name: French
     percent: 40
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Hong Kong Post Doctoral Fellowship 2022/2023
+    url: https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/
+    date: '2023-04-01'
+    awarder: Hong Kong University Grants Comittee
+    icon: hero/academic-cap
+
 ---
-
 ## About Me
-
 My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since the end of 2021, I have been actively engaged in research on nucleoside analogues as part of the research group led by [Prof. Billy Ng at the Chinese University of Hong Kong](https://www.ngwailung.com/). For this work I was awarded with the [Hong Kong Postdoctoral Fellowship 2022/2023](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/). 
 
 Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow in my passion for [photography](https://unsplash.com/de/@chromatograph).
