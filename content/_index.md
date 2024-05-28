@@ -4,20 +4,67 @@ title: ''
 date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-  - block: collection
+  - block: resume-biography-3
     content:
-      title: Welcome
-      subtitle: 'My latest posts and thoughts on science'
-      text: 'Welcome to my page. Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. I also share daily stories from my life as I enjoy exploring the countryside and culture in Hong Kong and follow my passion for [photography](https://unsplash.com/de/@chromatograph).<br>
-      Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates.<br>'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+
+  - block: markdown
+    content:
+      title: 'Welcome'
+      subtitle: ''
+      text: |-
+       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. I also share daily stories from my life as I enjoy exploring the countryside and culture in Hong Kong and follow my passion for [photography](https://unsplash.com/de/@chromatograph).<br>
+       Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates. 
+    design:
+      columns: '1'
+  
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
       filters:
         folders:
-          - post
-          - blog
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
         author: ""
         category: ""
         tag: ""
@@ -31,6 +78,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 ---
