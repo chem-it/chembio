@@ -6,11 +6,10 @@
 
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/hugomods/images
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/hugomods/images
 
-  # Install any Hugo Blox within the `hugo-blox/blox/` folder
+# Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
   - source: hugo-blox/blox/community
     target: layouts/partials/blox/community/
@@ -25,4 +24,3 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-  
