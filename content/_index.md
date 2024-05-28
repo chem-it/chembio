@@ -30,8 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-
- - block: markdown
+  - block: markdown
    content:
       title: 'Welcome'
      subtitle: ''
@@ -39,8 +38,7 @@ sections:
       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
    design:
       columns: '1'
-
- - block: collection
+  - block: collection
     id: news
     content:
       title: Recent News
@@ -69,7 +67,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
- - block: collection
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -80,7 +78,7 @@ sections:
    design:
       view: article-grid
       columns: 2
- - block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: ""
