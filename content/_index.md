@@ -35,21 +35,9 @@ sections:
       title: 'Welcome'
       subtitle: ''
       text: |-
-       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. I also share daily stories from my life as I enjoy exploring the countryside and culture in Hong Kong and follow my passion for [photography](https://unsplash.com/de/@chromatograph).<br>
-       Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates. 
+       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     id: news
     content:
@@ -79,4 +67,25 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 ---
