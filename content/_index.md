@@ -34,10 +34,9 @@ sections:
     content:
      title: 'Welcome'
      subtitle: ''
-     text: |-
-     Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
+     text: 'Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry.' 
    design:
-      columns: '1'
+     columns: '1'
   - block: collection
     id: news
     content:
