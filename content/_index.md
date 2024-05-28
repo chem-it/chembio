@@ -88,4 +88,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: [10, 10, 0, 0]
 ---
