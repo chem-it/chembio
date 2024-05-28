@@ -9,14 +9,6 @@ design:
   spacing: "6rem"
 
 sections:
- # - block: markdown
- #   content:
- #     title: 'Welcome'
- #     subtitle: ''
- #     text: |-
- #      Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
- #   design:
- #     columns: '1'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -38,7 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+
+ - block: markdown
+   content:
+      title: 'Welcome'
+     subtitle: ''
+     text: |-
+      Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
+   design:
+      columns: '1'
+
+ - block: collection
     id: news
     content:
       title: Recent News
@@ -67,7 +69,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
+ - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -75,10 +77,10 @@ sections:
         folders:
           - publication
         featured_only: true
-    design:
+   design:
       view: article-grid
       columns: 2
-  - block: collection
+ - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -86,8 +88,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
+   design:
       view: citation
-      spacing:
-        padding: [10, 10, 0, 0]
 ---
