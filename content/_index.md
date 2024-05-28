@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-   content:
+    content:
       title: 'Welcome'
      subtitle: ''
      text: |-
@@ -75,7 +75,7 @@ sections:
         folders:
           - publication
         featured_only: true
-   design:
+    design:
       view: article-grid
       columns: 2
   - block: collection
@@ -86,6 +86,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-   design:
+    design:
       view: citation
 ---
