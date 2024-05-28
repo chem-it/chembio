@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: markdown
     content:
       title: 'Welcome'
@@ -40,7 +39,6 @@ sections:
        Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates. 
     design:
       columns: '1'
-  
   - block: collection
     id: papers
     content:
@@ -52,7 +50,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  
   - block: collection
     id: news
     content:
