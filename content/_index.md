@@ -6,17 +6,17 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "4.5rem"
 
 sections:
-  - block: markdown
-    content:
-      title: 'Welcome'
-      subtitle: ''
-      text: |-
-       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
-    design:
-      columns: '1'
+ # - block: markdown
+ #   content:
+ #     title: 'Welcome'
+ #     subtitle: ''
+ #     text: |-
+ #      Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
+ #   design:
+ #     columns: '1'
 
   - block: resume-biography-3
     content:
