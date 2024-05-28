@@ -44,61 +44,55 @@ education:
     date_start: 2015-01-01
     date_end: 2018-09-01
     summary: |
-      Dummy Text
+      During my time at the University of Bonn, I participated in the research group of Professor Dirk Menche, where I contributed to the total synthesis of polyketide natural products.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Thesis (in german)'
+      url: 'https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/7629'
   - area: Organic Chemistry - Diplom (equivalent to M.Sc.) in Chemistry
     institution: Humboldt University of Berlin
     date_start: 2008-09-01
     date_end: 2014-05-01
     summary: |
-      Dummy Text
+      I completed a 5-year study program at the Humboldt University in Berlin. For my thesis, I conducted research in the group of Professor Rainer Mahrwald, focusing on organocatalytic Aldol condensations.
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-#  - name: Science
-#    items:
-#      - name: Research & Labwork
-#        description: ''
-#        percent: 100
-#        icon: flask
-#        icon_pack: fas
-#      - name: Grant Writing
-#        description: ''
-#        percent: 100
-#        icon: pencil
-#        icon_pack: fas
-#      - name: Mentoring
-#        description: ''
-#        percent: 100
-#        icon: building-columns
-#        icon_pack: fas
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 100
-#        icon: person-hiking
-#        icon_pack: fas
-#      - name: Photography
-#        description: ''
-#        percent: 100
-#        icon: camera-retro
-#        icon_pack: fas
+#For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Science
+    items:
+      - name: Research & Labwork
+        description: ''
+        percent: 100
+        icon: hero/beaker
+      - name: Grant Writing
+        description: ''
+        percent: 100
+        icon: hero/pencil-square
+      - name: Mentoring
+        description: ''
+        percent: 100
+        icon: hero/academic-cap
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: German
     percent: 100
   - name: English
     percent: 100
-  - name: Chinese (Cantonese)
-    percent: 66
+  - name: Cantonese
+    percent: 70
   - name: French
-    percent: 33
+    percent: 40
 
 ---
 
