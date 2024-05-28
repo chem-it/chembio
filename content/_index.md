@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome'
+     title: 'Welcome'
      subtitle: ''
      text: |-
       Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
