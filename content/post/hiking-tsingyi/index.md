@@ -11,7 +11,7 @@ As we move into late spring, the weather in Hong Kong is becoming increasingly h
 
 One such hike is on the island of Tsing Yi (青衣), located west of Kowloon. Tsing Yi is known for its large container terminal in the southeastern part of the island, but it's countrytrails also features interesting views over Hong Kong and Kowloon. The highest peak on the island is Sam Chi Heung South Peak (三支香南峰). This peak's name comes from the three "incense sticks" or peaks - North, Middle, and South. Aside from these tree peaks, the northern part of Tsing Yi is home to a network of well-maintained country trails.
 
-![View over Container Terminal](/image/tsingyihike.png)
+![View over Container Terminal](/static/images/tsingyihike.jpg)
 
 I began my hike by exiting the MTR station at the island's coastline and heading north. After passing some housing estates, I found the entry to the nature trails on the left side. A short climb brought me to the Cheung Wang estate, where the actual hiking portion began as I left the street and entered the forested trail. Much of the trail was shaded, which was a welcome relief from the humidity.
 
@@ -21,15 +21,11 @@ The initial ascent to the Sam Chi Heung peaks was quite steep, but the trail was
 
 ## Key Facts
 
-**Length:** 10.0 km
-
-**Uphill:** 490 m
-
-**Downhill:** 430 m
-
-**Shadow:** {{<ico bootstrap star-fill>}}{{<ico bootstrap star-fill>}}{{<ico bootstrap star-fill>}}{{<ico bootstrap star-fill>}}{{<ico bootstrap star>}}
-
-**Level:** 
+**Length:** 10.0 km<br>
+**Uphill:** 490 m<br>
+**Downhill:** 430 m<br>
+**Shadow:** Mostly Shadow<br>
+**Level:** Moderate
 
 ## Map
 
@@ -38,3 +34,6 @@ The initial ascent to the Sam Chi Heung peaks was quite steep, but the trail was
 ## Further Links
 
 https://www.discoverhongkong.com/eng/explore/great-outdoor/great-outdoors-hong-kong/tsing-yi-nature-trails.html
+
+https://droneandslr.com/travel-blog/hong-kong/tsing-yi-peak-hike/
+
