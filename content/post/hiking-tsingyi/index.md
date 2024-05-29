@@ -29,7 +29,7 @@ The initial ascent to the Sam Chi Heung peaks was quite steep, but the trail was
 
 ## Map
 
-{{< openstreetmap mapName="hiking-in-tsing-yi_1076029" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
+{{< openstreetmap mapName="hiking-in-tsing-yi_1076029" miniMap="false">}}
 
 ## Further Links
 
