@@ -111,8 +111,8 @@ awards:
 
 ---
 ## About Me
-My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since the end of 2021, I have been actively engaged in research on nucleoside analogues as part of the research group led by [Prof. Billy Ng at the Chinese University of Hong Kong](https://www.ngwailung.com/). For this work I was awarded with the [Hong Kong Postdoctoral Fellowship 2022/2023](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/). 
+My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since 2021, I have been engaged in research on nucleoside analogues as part of the research group led by [Prof. Billy Ng at the Chinese University of Hong Kong](https://www.ngwailung.com/). For this work I was awarded with the [Hong Kong Postdoctoral Fellowship 2022/2023](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/). 
 
-Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow in my passion for [photography](https://unsplash.com/de/@chromatograph).
+Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow my passion for [photography](https://unsplash.com/de/@chromatograph).
 
 Follow me on <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> for updates.
