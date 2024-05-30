@@ -59,6 +59,10 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '10px', '40px', '10px']
+      
   - block: collection
     content:
       title: Recent Publications
@@ -69,6 +73,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: ['0', '10px', '40px', '10px']
     sections:
   - block: resume-languages
     content:
