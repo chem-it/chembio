@@ -14,15 +14,15 @@ sections:
       title: 'Welcome'
       subtitle: ''
       text: |-
-        ## Exploring Science, Nature and Culture
-        
         ![Skyline of HK at night](/images/landing.jpg)
+
+        ## Exploring Science, Nature and Culture
 
         I am researcher currently in the field of developing novel antivirals. On this page I will share my latest insights and perspectives on antiviral research, medicinal chemistry and organic chemistry. Currently based in the vibrant city of Hong Kong, I am eager to learn more about the local Cantonese culture. Therefore, I am not only exploring the city, but I also traveling around Guangdong and learning Cantonese. 
         
         For the latest updates on my research and adventures, please feel free to follow my <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> account.  
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: news
     content:
