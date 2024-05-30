@@ -25,7 +25,7 @@ sections:
       columns: '1'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '0', '10px']
+        padding: ['0', '10px', '40px', '10px']
   - block: collection
     id: news
     content:
