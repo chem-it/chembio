@@ -14,7 +14,7 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        #Welcome
+        # Welcome
 
         ![Skyline of HK at night](/images/landing.jpg)
 
