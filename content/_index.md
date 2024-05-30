@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'Exploring Science, Nature and Culture'
+date: 2024-05-24
 type: landing
 
 design:
@@ -9,39 +9,22 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      #button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: markdown
     content:
       title: 'Welcome'
-      subtitle: ''
+      subtitle: 'Exploring Science, Nature and Culture'
       text: |-
-        Read my latest thoughts on science in the fields of antiviral research, medicinal chemistry and organic chemistry. 
+        ![Skyline of HK at night](/images/landing.jpg)
+
+        I am researcher currently in the field of developing novel antivirals. On this page I will share my latest insights and perspectives on antiviral research, medicinal chemistry and organic chemistry. Currently based in the vibrant city of Hong Kong, I am eager to learn more about the local Cantonese culture. Therefore, I am not only exploring the city, but I also traveling around Guangdong and learning Cantonese. 
+        
+        For the latest updates on my research and adventures, please feel free to follow my <a href="https://fediscience.org/@chem_synthesis" rel="me">Mastodon</a> account.  
     design:
       columns: '1'
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: My latest thoughts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -67,25 +50,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-         - publication
-        exclude_featured: false
-    design:
-      view: citation
 ---

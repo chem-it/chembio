@@ -9,8 +9,6 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
   - path: github.com/hugomods/images
   - path: github.com/Hanzei/hugo-component-osm
-  - path: github.com/hugomods/icons/vendors/bootstrap
-  - path: github.com/hugomods/icons/vendors/font-awesome
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
