@@ -14,7 +14,7 @@ featured: false
 links: 
 - name: Link to full-text
   url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202401485
-publishDate: '2024-07-06T16:00:00'
+publishDate: '2024-07-05T16:00:00'
 publication_types:
 - article-journal
 publication: '*Chem. Eur. J.* **2024**, e202401485'
