@@ -18,5 +18,5 @@ links:
 publishDate: '2024-07-06T16:00:00'
 publication_types:
 - article-journal
-publication: '*Chem. Eur. J.* **2024**, e202401485.
+publication: '*Chem. Eur. J.* **2024**, e202401485'
 ---
