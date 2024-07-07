@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      #button:
+      button:
       text: Download CV
       url: uploads/resume.pdf
     design:
@@ -38,6 +38,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
   - block: collection
     id: papers
     content:
@@ -49,10 +53,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies

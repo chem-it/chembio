@@ -87,14 +87,6 @@ work:
     date_end: 2018-09-30
     summary: |2-
       Total synthesis of natural products together with Prof Peter Metz (Department of Chemistry). 
-  - position: Research Assistant 
-    company_name: University of Bonn
-    company_url: 'https://www.uni-bonn.de'
-    company_logo: ''
-    date_start: 2015-01-01
-    date_end: 2018-02-28
-    summary: |2-
-      Total synthesis of complex polyketides together with Prof Dirk Menche (Department of Chemistry).
 
 #For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
