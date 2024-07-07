@@ -55,7 +55,7 @@ education:
     button:
       text: 'Read Thesis (in german)'
       url: 'https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/7629'
-  - area: Organic Chemistry - Diplom (equivalent to M.Sc.) in Chemistry
+  - area: Organic Chemistry - Diplom in Chemistry
     institution: Humboldt University of Berlin
     date_start: 2008-09-01
     date_end: 2014-05-01
