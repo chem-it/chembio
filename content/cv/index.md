@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       #button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
+      text: Download CV
+      url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+   - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     id: papers
     content:
@@ -44,15 +52,7 @@ sections:
   - block: resume-awards
     content:
       title: Awards
-      username: admin    
-  - block: resume-experience
-    content:
       username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -62,7 +62,6 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0', '10px', '40px', '10px']
-      
   - block: collection
     content:
       title: Recent Publications

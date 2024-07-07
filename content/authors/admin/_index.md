@@ -75,7 +75,7 @@ work:
     company_logo: ''
     date_start: 2018-10-01
     date_end: 2021-10-31
-    summary: | 2-
+    summary: |2-
       Development of synthetic novel methods in the field of reductive copper catalyzed transformations in the research group of Prof Pauline Chiu (Department of Chemistry).
   - position: Research Assistant 
     company_name: Dresden University of Technology
