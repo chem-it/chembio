@@ -60,6 +60,40 @@ education:
     summary: |
       I completed a 5-year study program at the Humboldt University in Berlin. For my thesis, I conducted research in the group of Professor Rainer Mahrwald, focusing on organocatalytic Aldol condensations.
 
+work:
+  - position: Post-Doctoral Fellow
+    company_name: Chinese University of Hong Kong
+    company_url: 'https://www.cuhk.edu.hk'
+    company_logo: ''
+    date_start: 2021-11-01
+    date_end: ''
+    summary: |2-
+      Design and synthesis of novel nucleoside analogs for antiviral purposes together with Prof Billy Ng (School of Pharmacy). 
+  - position: Post-Doctoral Fellow
+    company_name: University of Hong Kong
+    company_url: 'https://www.hku.hk'
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2021-10-31
+    summary: | 2-
+      Development of synthetic novel methods in the field of reductive copper catalyzed transformations in the research group of Prof Pauline Chiu (Department of Chemistry).
+  - position: Research Assistant 
+    company_name: Dresden University of Technology
+    company_url: 'https://www.tu-dresden.de'
+    company_logo: ''
+    date_start: 2018-03-01
+    date_end: 2018-09-30
+    summary: |2-
+      Total synthesis of natural products together with Prof Peter Metz (Department of Chemistry). 
+  - position: Research Assistant 
+    company_name: University of Bonn
+    company_url: 'https://www.uni-bonn.de'
+    company_logo: ''
+    date_start: 2015-01-01
+    date_end: 2018-02-28
+    summary: |2-
+      Total synthesis of complex polyketides together with Prof Dirk Menche (Department of Chemistry).
+
 #For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Science
