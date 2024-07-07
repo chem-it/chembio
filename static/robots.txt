@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /uploads/resume.pdf
+
+Sitemap: https://me.organicchemistry.eu/sitemap.xml
