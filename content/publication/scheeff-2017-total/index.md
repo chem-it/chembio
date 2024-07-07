@@ -11,5 +11,5 @@ publication_types:
 links: 
 - name: Link to full-text
   url: https://www.beilstein-journals.org/bjoc/articles/13/108
-publication: '*Beilstein J. Org. Chem.* **2017**, *13*, 1085–1098. https://doi.org/10.3762/bjoc.13.108 '
+publication: '*Beilstein J. Org. Chem.* **2017**, *13*, 1085–1098'
 ---

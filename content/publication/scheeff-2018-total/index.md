@@ -3,7 +3,7 @@ title: Total synthesis of archazolid F
 authors:
 - Stephan Scheeff
 - Dirk Menche
-date: '2018-12-14'
+date: '2019-01-03'
 publishDate: '2024-05-12T10:39:59.841900Z'
 abstract: 'A partial bioinspired as well as the total synthesis of archazolid F, a highly potent V-ATPase inhibitory, antiproliferative polyketide macrolide, is described. Key features of the synthetic routes include a highly stereoselective aldol condensation of two elaborate fragments and macrocyclizations either by a Shiina macrolactonization or by a challenging RCM reaction of an octaene substrate. The syntheses unequivocally confirm the full architecture of this very scarce archazolid.'
 

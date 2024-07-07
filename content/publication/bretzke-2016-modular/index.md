@@ -15,5 +15,5 @@ links:
   url: https://www.beilstein-journals.org/bjoc/articles/12/107
 publication_types:
 - article-journal
-publication: '*Beilstein J. Org. Chem.* **2016**, *12*, 1111–1121.'
+publication: '*Beilstein J. Org. Chem.* **2016**, *12*, 1111–1121'
 ---
