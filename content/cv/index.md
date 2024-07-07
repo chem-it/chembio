@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-      text: Download CV
-      url: uploads/resume.pdf
+        text: Download CV
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -61,7 +61,7 @@ sections:
       show_skill_percentage: false
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '40px', '10px']
+        padding: ['0', '10px', '20px', '10px']
   - block: collection
     content:
       title: Recent Publications
@@ -73,7 +73,7 @@ sections:
     design:
       view: citation
       spacing:
-        padding: ['0', '10px', '40px', '10px']
+        padding: ['0', '10px', '20px', '10px']
     sections:
   - block: resume-languages
     content:
