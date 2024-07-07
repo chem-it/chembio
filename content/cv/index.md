@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-   - block: resume-experience
+  - block: resume-experience
     content:
       username: admin
     design:

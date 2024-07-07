@@ -35,6 +35,8 @@ profiles:
     url: https://orcid.org/0000-0001-7791-9670
   - icon: brands/mastodon
     url: https://fediscience.org/@chem_synthesis
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/stephanhk/
 
 # Interests to show in About widget
 interests:
