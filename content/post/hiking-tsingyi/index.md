@@ -5,6 +5,7 @@ date: 2024-05-29
 tags:
   - Hiking
   - Hong Kong
+  - Leisure
 ---
 
 As we move into late spring, the weather in Hong Kong is becoming increasingly humid. This can make hiking more challenging, as sunny or strenuous trails are best avoided during this time of year. Luckily, Hong Kong offers many rewarding hiking options that are well-suited for the late spring conditions.
