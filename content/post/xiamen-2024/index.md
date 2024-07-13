@@ -1,7 +1,7 @@
 ---
 title: "Exploring Xiamen on a Short trip"  
 summary: Xiamen is a coastal city in southeastern China's Fujian province. With its rich cultural heritage, beautiful natural landscapes, and relaxed atmosphere, it is a rewarding destination for travelers looking to experience the charm of China's southeastern region.
-date: 2024-05-29
+date: 2024-07-02
 tags:
   - Travel
   - China
