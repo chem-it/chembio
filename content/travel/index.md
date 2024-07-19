@@ -11,9 +11,7 @@ sections:
       title: My Newest Experience
       text: ""
       filters:
-        tags:
+        tag:
          - travel
         exclude_featured: false
-    design:
-      view: card
 ---
