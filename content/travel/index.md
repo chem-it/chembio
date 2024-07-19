@@ -12,5 +12,6 @@ sections:
       text: ""
       page_type: post
       filters:
+        tag: travel
         exclude_featured: false
 ---
