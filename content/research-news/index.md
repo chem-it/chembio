@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Exploring Culture, Languange and Landscape
+title: Chemistry Research News
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -8,11 +8,11 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Exploring Culture, Languange and Landscape
-      text: "Read more about my newest experiences and discoveries."
+      title: Newest Insights in Organic Chemistry, Medicinal Chemistry and Research Topics
+      text: "Find out what I find interesting presented in small snippets."
       page_type: post
       filters:
-        tag: travel
+        tag: research
         exclude_featured: false
     design:
       # Choose a layout view
