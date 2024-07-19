@@ -6,9 +6,9 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-    - block: collection
+  - block: collection
     content:
-      title: Recent Publications
+      title: My Newest Experience
       text: ""
       filters:
         tags:
