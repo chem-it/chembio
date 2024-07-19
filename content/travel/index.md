@@ -12,6 +12,5 @@ sections:
       text: ""
       page_type: post
       filters:
-        category: "travel"
         exclude_featured: false
 ---
