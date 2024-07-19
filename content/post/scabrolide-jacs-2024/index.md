@@ -7,6 +7,7 @@ tags:
   - JACS
   - Chemistry
   - Publication of the Week
+  - Research
 ---
 Scabrolide A, a polycyclic marine natural product, has fascinated chemists due to its highly constrained structure. Recently, Pengfei Hu and colleagues from Westlake University in Hangzhou, China, published an innovative strategy for efficiently synthesizing the scaffold of this polycyclic compound.
 

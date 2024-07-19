@@ -6,6 +6,7 @@ tags:
   - Total Synthesis
   - Terpenoid
   - Publication of the Week
+  - Research
 ---
 
 Terpenoids are a large class of secondary natural products. Some of them have an interesting polycyclic core that has attracted the interest of the research community. Examples are platensilin and it's close relatives platensimycin and platencin. Due to their intrinsic complexity, several total synthesis groups have reported synthesis routes, but the synthesis of platensilin itself has not been reported. Now, a research group from Shandong University (China) led by Ze-Jun Xu (徐泽军) and Hong-Xiang Luo (娄红祥) has reported the total synthesis of platensilin and platensimycin as well as the formal synthesis of platencin.

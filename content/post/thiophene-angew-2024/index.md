@@ -6,6 +6,7 @@ tags:
   - Organic Chemistry
   - Angewandte Chemie
   - Publication of the Week
+  - Research
 ---
 The concept of aromaticity is central to organic chemistry. The formation of aromatic systems is a driving force for many reactions, as their formation is energetically favorable. Taking this into account, the dearomatization of these systems is often accompanied by low yields, reversibility, or the need for extreme conditions.
 

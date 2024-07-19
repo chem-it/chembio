@@ -17,4 +17,6 @@ sections:
     design:
       # Choose a layout view
       view: article-grid
+      spacing:
+        padding: [0, 20, 0, 20]
 ---

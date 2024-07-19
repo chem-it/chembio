@@ -6,6 +6,7 @@ tags:
   - Medicinal Chemistry
   - Antivirals
   - Publication of the Week
+  - Research
 ---
 The development of remdesivir in recent years by Gilead Sciences was an example of the successful development of a novel nucleoside analogue that could be applied during the COVID-19 pandemic. However, as remdesivir requires intravenous administration, its use is limited to clinical settings. The major achievement during the development of this analogue was demonstrating that the cytotoxicity of the 4-aza-7,9-dideazaadenosine ribose could be diminished by the introduction of a 1'-CN group which at the same time retained the antiviral activity.
 

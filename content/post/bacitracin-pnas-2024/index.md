@@ -6,6 +6,7 @@ tags:
   - Medicinal Chemistry
   - PNAS
   - Publication of the Week
+  - Research
 ---
 
 Bacitracin is a polypeptide antibiotic that is widely used in topical ointments for its antimicrobial properties. In a recent study published in PNAS, a research team led by Nathaniel Martin from Leiden University reported that slight structural modifications to bacitracin resulted in a 256-fold increase in activity against Streptococcus pneumoniae.

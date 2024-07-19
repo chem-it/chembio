@@ -6,6 +6,7 @@ tags:
   - Medicinal Chemistry
   - Antivirals
   - Publication of the Week
+  - Research
 ---
 
 Nucleoside analogues have proven effective as antivirals against many viruses such as HIV. A relatively new nucleoside analogue is remdesivir, which was first introduced against hepatitis and Ebola. Following the outbreak of the SARS-CoV-2 pandemic, it also showed promising antiviral activity *in vitro* and has also been marketed as a drug against COVID. However, its efficacy in clinical trials has been inconclusive.

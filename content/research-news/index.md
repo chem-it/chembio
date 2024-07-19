@@ -8,8 +8,8 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Newest Insights in Organic Chemistry, Medicinal Chemistry and Research Topics
-      text: "Find out what I find interesting presented in small snippets."
+      title: Chemistry Research News
+      text: "Newest Insights in Organic Chemistry, Medicinal Chemistry and Research Topics. Find out what I find interesting presented in small snippets."
       page_type: post
       filters:
         tag: research
