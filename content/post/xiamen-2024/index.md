@@ -6,6 +6,7 @@ tags:
   - Travel
   - China
   - Leisure
+  - Culture
 ---
 
 Xiamen (厦门市/廈門) is a coastal city in the southeastern province of Fujian, China. It is located north of Hong Kong and south of Shanghai. Xiamen is well connected to China's high-speed rail network, with several express train services available. As we had a few days off, my partner and I took the high-speed train from Hong Kong, which arrived at Xiamen North Station in about 3 hours. From there we transferred to the metro, which took us to the city centre on Xiamen Island in less than an hour.

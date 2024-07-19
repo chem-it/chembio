@@ -13,7 +13,7 @@ sections:
       page_type: post
       count: 0
       filters:
-        tag: travel
+        tag: culture
         exclude_featured: false
     design:
       # Choose a layout view

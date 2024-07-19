@@ -11,7 +11,7 @@ main:
     url: '/research-news'
     weight: 20
   - name: Culture
-    url: '/travel'
+    url: '/culture'
     weight: 40
   - name: Bio
     url: '/cv'

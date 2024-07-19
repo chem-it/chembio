@@ -9,7 +9,7 @@ sections:
   - block: collection
     content:
       title: Chemistry Research News
-      text: "Newest Insights in Organic Chemistry, Medicinal Chemistry and Research Topics. Find out what I find interesting presented in small snippets."
+      text: "I will present the newest insights in organic chemistry, medicinal chemistry and other related research. I will show you what I find interesting, presented in small snippets."
       page_type: post
       count: 0
       filters:
