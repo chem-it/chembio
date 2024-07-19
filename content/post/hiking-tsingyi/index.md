@@ -2,6 +2,7 @@
 title: "Hiking in Tsing Yi"  
 summary: As the weather in Hong Kong becomes increasingly humid in late spring, hiking can become more challenging, but the island of Tsing Yi offers rewarding hiking options well-suited for the conditions, including the scenic Sam Chi Heung peaks. 
 date: 2024-05-29
+category: travel
 tags:
   - Hiking
   - Hong Kong

@@ -11,7 +11,6 @@ sections:
       title: My Newest Experience
       text: ""
       filters:
-        tag:
-         - travel
+        category: "travel"
         exclude_featured: false
 ---
