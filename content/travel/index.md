@@ -11,12 +11,11 @@ sections:
       title: Exploring Culture, Languange and Landscape
       text: "Read more about my newest experiences and discoveries."
       page_type: post
+      count: 0
       filters:
         tag: travel
         exclude_featured: false
     design:
       # Choose a layout view
       view: article-grid
-      spacing:
-        padding: [0, 20, 0, 20]
 ---
