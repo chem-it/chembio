@@ -10,6 +10,7 @@ sections:
     content:
       title: My Newest Experience
       text: ""
+      page_type: post
       filters:
         category: "travel"
         exclude_featured: false
