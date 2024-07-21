@@ -30,9 +30,10 @@ When you learn Chinese as a second language, you rely heavily on a romanisation 
 
 Many schools start by teaching Cantonese based only on the romanisation of the characters. This means that you will only see the romanisation and not the Chinese characters. This may work for you in the beginning, but I strongly recommend that you learn the Chinese characters as well as the romanisation. This is not only useful for linguistic reasons - the character can indicate the meaning of the word and/or the pronunciation - but mainly because it would be very confusing if you became an advanced learner. This is because although a Chinese character is basically always pronounced the same way, many characters are pronounced very similarly or even the same way (called homonyms). Therefore, as your vocabulary becomes more complex and you rely only on romanisation, it becomes very confusing because many words look very similar.
 
-Let me show you an example: The sentence *Everywhere I go on Hong Kong Island I can meet my friends.
+Let me show you an example: The sentence *Everywhere I go on Hong Kong Island I can meet my friends.*
 
 我去到香港島邊度都可以見到朋友。
+
 ngóh heui dou hēung góng dóu bīn douh dōu hó yíh gin dóu pàhng yáuh.
 
 Note that the characters 到, 島, 度 and 都 are all pronounced the same way, they just differ in tone. However, their meanings are very different. If you learn the characters along with the romanised form, you will be able to tell the difference quickly and understand the meaning immediately. If you only learn the romanisation, you will often get confused because you will not be able to remember what is actually meant. Whether yú means fish (魚, yú) or rain (雨, yúh) - the characters will tell you.
