@@ -1,6 +1,6 @@
 ---
 title: "Learning Cantonese: Should I learn the Chinese Characters?"  
-summary: "Why in my opinion the learning of Chinese characters is important and what the benefits are."
+summary: "Why the learning of Chinese characters is important and what the benefits are."
 date: 2024-07-21
 
 tags:
