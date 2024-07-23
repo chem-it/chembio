@@ -1,6 +1,6 @@
 ---
-title: "Biocatalytic synthesis of thionucleoside analogues"  
-summary: Novel biocatalytic method for the synthesis of thionucleosides, demonstrating that enzyme-catalyzed transglycosylation can effectively facilitate nucleobase exchange.
+title: "Biocatalytic diversification of thionucleoside analogues"  
+summary: Novel biocatalytic method for the diversification of thionucleosides, demonstrating that enzyme-catalyzed transglycosylation can effectively facilitate nucleobase exchange.
 date: 2024-07-23
 tags:
   - Medicinal Chemistry
