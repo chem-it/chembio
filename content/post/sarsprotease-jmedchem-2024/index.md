@@ -15,4 +15,4 @@ In a study published in the *Journal of Medicinal Chemistry*, a team of Pfizer r
 
 As Pfizer moves this experimental drug forward into clinical trials, this inhibitor may soon be developed into a real market drug. By making small structural changes without affecting the overall conformation of the molecule, it is possible to optimise metabolic stability and improve overall pharmacokinetic properties.
 
-**Read more:** A Second-Generation Oral SARS-CoV-2 Main Protease Inhibitor Clinical Candidate for the Treatment of COVID-19 [doi:10.1101/2024.04.17.589937](https://doi.org/10.1101/2024.04.17.589937)
+**Read more:** A Second-Generation Oral SARS-CoV-2 Main Protease Inhibitor Clinical Candidate for the Treatment of COVID-19 [doi:10.1021/acs.jmedchem.3c02469](https://doi.org/10.1021/acs.jmedchem.3c02469)
