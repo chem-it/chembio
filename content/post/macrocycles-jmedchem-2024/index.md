@@ -1,7 +1,7 @@
 ---
 title: "Macrocycles can lock the Conformation of Drug Candidates and enhance their Activity"  
 summary: Macrocycles can improve the conformation, biological activity, selectivity, ADME properties, and target affinity of small-molecule drug candidates.
-date: 2024-08-26
+date: 2024-09-10
 tags:
   - Medicinal Chemistry
   - Macrocycles
