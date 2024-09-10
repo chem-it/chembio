@@ -9,6 +9,7 @@ tags:
   - Publication of the Week
   - Research
 ---
+
 In medicinal chemistry, the conformation of small molecules is critical for enzyme recognition. The process of optimising the structure to fit into the enzyme pocket has been accelerated in recent years by the increasing availability of enzyme/substrate crystallography data and advances in in silico calculations.
 
 In a perspective published in the *Journal of Medicinal Chemistry*, the research group of Felix Hausch (Technical University of Darmstadt) discusses the concept of using macrocycles to improve and fix the conformation of small molecules. In addition to enhancing biological activity, the authors explore how macrocycles can improve selectivity, ADME properties and target affinity, using recent examples.
