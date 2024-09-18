@@ -21,13 +21,13 @@ The presentation by Prof. MacMillan from Princeton University was outstanding. H
 
 As a researcher focusing on antivirals, I was particularly intrigued by Dr. Tim Jonckers' presentation from Johnson & Johnson. He discussed the development of a dengue antiviral targeting the viral NS4B protein. It was fascinating to learn about the extensive work involved in optimizing the structure of the drug candidate. In addition to having an active drug, pharmacokinetics and pharmacodynamics are crucial aspects of drug discovery projects. Dr. Jonckers highlighted how subtle structural changes can enhance one parameter while potentially compromising another. Ultimately, *in vivo* studies demonstrated antiviral activity, with pretreatment before infection yielding the most promising results. I look forward to seeing whether this drug candidate will achieve success in the near future.
 
-**Read more:** Discovery of JNJ-1802, a First-in-Class Pan-Serotype Dengue Virus NS4B Inhibitor [https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c02336](J. Med. Chem. **2024**)
+**Read more:** Discovery of JNJ-1802, a First-in-Class Pan-Serotype Dengue Virus NS4B Inhibitor [J. Med. Chem. **2024**](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c02336)
 
 ## Session: First Time Disclosures
 
 Attending a conference in the field of Medicinal Chemistry often includes presentations featuring first-time disclosures. During these sessions, research groups from pharmaceutical companies share the structures of their drug candidates along with preclinical and initial clinical results. This year, also an academic research group led by Prof. Stefan Laufer from the University of Tübingen presented their drug candidate HRX-215, an MKK-4 inhibitor. Additionally, Bayer showcased data on their drug candidate BAY2413555, which is being developed for the treatment of chronic heart failure. Other notable disclosures included GSK484, a candidate from GlaxoSmithKline aimed at treating malaria, and NVP-EVS459 from Novartis, which targets cancer therapies. 
 
-**Read more:** First-in-class MKK4 inhibitors enhance liver regeneration and prevent liver failure [https://www.cell.com/cell/fulltext/S0092-8674(24)00225-3](Cell **2024**)
+**Read more:** First-in-class MKK4 inhibitors enhance liver regeneration and prevent liver failure [Cell **2024**](https://www.cell.com/cell/fulltext/S0092-8674(24)00225-3)
 
 ## Poster Presentation: Carbobicyclic Nuceloside Analogues as Novel Antivirals
 
@@ -35,7 +35,7 @@ In recent years, I have been working on carbobicyclic nucleoside analogues. Desp
 
 During my presentation in Rome, I shared further developments in this research. We focused on host interactions and cytotoxicity because many nucleoside analogues can cause side effects, which often leads to the discontinuation of clinical trials. We tested the metabolism and cytotoxicity of our analogues, and I was pleased to discuss the results with many interested professionals.
 
-**Read more:** Design and Synthesis of Bicyclo[4.3.0]nonene Nucleoside Analogues [https://pubs.acs.org/doi/10.1021/acs.orglett.3c03590](Org. Lett. **2023**)
+**Read more:** Design and Synthesis of Bicyclo[4.3.0]nonene Nucleoside Analogues [Org. Lett. **2023**](https://pubs.acs.org/doi/10.1021/acs.orglett.3c03590)
 
 In addition to these presentations, many other talks were held throughout the conference. Notably, sessions on bifunctional protein degraders, molecular glues, and the application of AI in medicinal chemistry get significant interest from the audience. Personally, I found this conference to be a valuable opportunity to connect with the Medicinal Chemistry research community and stay informed about the latest advancements and trends.
 
