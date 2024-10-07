@@ -26,7 +26,7 @@ The initial ascent to the Sam Chi Heung peaks was quite steep, but the trail was
 **Length:** 10.0 km<br>
 **Uphill:** 490 m<br>
 **Downhill:** 430 m<br>
-**Shadow:** Mostly Shadow<br>
+**Shadow:** Mostly Shady<br>
 **Level:** Moderate
 
 ## Map

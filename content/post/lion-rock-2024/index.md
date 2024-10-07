@@ -24,8 +24,10 @@ After passing Amah Rock, I made my way towards Lion Rock. Initially, I planned t
 **Length:** 6.24 km<br>
 **Uphill:** 470 m<br>
 **Downhill:** 300 m<br>
-**Shadow:** Mostly Shadow<br>
+**Shadow:** Mostly shady with sunny intervals at Lion Rock<br>
 **Level:** Moderate
+
+**Note:** You can start at Tai Wai Station, however, the first km until Hung Mui Kuk BBQ area is loud, sunny and generall unpleasant. Take the Bus to the station World-wide Gardens instead. From Reunification Pavilion you can directly climb up Lion Rock. This is recommended as the incline is not that step as from the other side.
 
 ## Map
 
