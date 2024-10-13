@@ -13,8 +13,7 @@ Ma On Shan Country Park is vast, with hiking trails that stretch from Ma On Shan
 
 I began my journey in Wong Nai Tau, easily accessible by bus from several locations in Hong Kong. The trail starts off quite steep but is pleasantly shaded. After about half an hour of steady incline, you have the option to climb Buffalo Hill to your left. Since I was hiking alone and the path was steep, I chose to bypass Buffalo Hill by taking the southeast route instead. After an hour of hiking, I stumbled upon a freshwater stream, which provided the perfect spot for a break. The total climb to Buffalo Pass, at 468 meters, takes about an hour and marks the highest point of this hike.
 
-![View from Ngong Ping](/images/ngongping.jpg)
-*View from Ngong Ping over Sai Kung*
+![View from Ngong Ping](/images/ngongping.jpg "View over Sai Kung")
 
 From Buffalo Pass, the trail follows the MacLehose Trail, which is well-maintained and offers a more moderate terrain. There are no significant uphill or downhill sections from here; however, it still takes about an hour to reach Ngong Ping (don’t confuse it with the similarly named location on Lantau Island). The view of Sai Kung from this vantage point is absolutely fabulous, and it’s a great spot to relax while watching the frequent paragliders gliding through the sky. Although this location isn’t exactly a hidden gem — many tourists frequent it during the day — it transforms into a popular camping spot for locals at night.
 
@@ -31,3 +30,9 @@ Feeling a bit fatigued at this point, I decided to take the fastest route back t
 ## Map
 
 {{< openstreetmap mapName="ma-on-shan-country-park-hike_1126103" miniMap="false">}}
+
+## Links
+
+https://www.komoot.com/tour/1909231469
+
+https://en.wikipedia.org/wiki/Ngong_Ping,_Ma_On_Shan
