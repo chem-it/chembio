@@ -9,7 +9,7 @@ tags:
   - Research
 ---
 
-The usefulness of the 1,5 Hydrogen Atom Transfer (1,5-HAT) reaction was demonstrated by many total synthesis groups in the last decade. One example is the total synthesis of picrotoxinin in 2020 by the Shenvi group [published in JACS](https://pubs.acs.org/doi/10.1021/jacs.0c05042). In a follow-up published 2024 in Nature, Ryan Shenvi and Chunyu Li introduced the synthesis of 25 other natural products from this scaffold. It was envisioned that the scaffold would be constructed from a common intermediate using the already established 1,5-HAT reaction. However, this concept was challenged by unproductive beta scissoring, depending on the electronic and steric environment.
+The usefulness of the 1,5 Hydrogen Atom Transfer (1,5-HAT) reaction was demonstrated by many total synthesis groups in the last decade. One example is the total synthesis of picrotoxinin in 2020 by the Shenvi group [published in JACS](https://pubs.acs.org/doi/10.1021/jacs.0c05042). In a follow-up published 2024 in Nature, Ryan Shenvi and Chunyu Li introduced the synthesis of 25 other natural products from this scaffold. It was envisioned that the scaffold would be constructed from a common intermediate using the already established 1,5-HAT reaction. However, this concept was challenged by unproductive β-scission, depending on the electronic and steric environment.
 
 To avoid a risky and lengthy trial-and-error process, Shenvi and Li decided to use *in silico* DFT calculations based on their experimental data from three previously used intermediates and one example from the literature. This approach guided the scaffold substitution and was then successfully implemented in the synthesis campaign for selected natural products such as coriamytrin and corianin.
 
