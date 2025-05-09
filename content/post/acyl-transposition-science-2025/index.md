@@ -16,4 +16,4 @@ Although 1,3-acyl transitions are well known for unsaturated systems, their 1,2 
 
 Although the substrate range is narrow, it must be emphasized that such transformations are far from being easily accessible. Therefore, we can look forward to the coming years to see how such concepts can overcome the limitations of previous synthetic strategies by adding new methods to the organic chemist's toolbox.
 
-**Read more:** 1,2-Acyl transposition through photochemical skeletal rearrangement of 2,3-dihydrobenzofurans *Science* [doi:10.1126/science.adv9915] (https://www.science.org/doi/epdf/10.1126/science.adv9915)
+**Read more:** 1,2-Acyl transposition through photochemical skeletal rearrangement of 2,3-dihydrobenzofurans *Science* [doi:10.1126/science.adv9915](https://www.science.org/doi/epdf/10.1126/science.adv9915)
