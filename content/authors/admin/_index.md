@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Post-Doctoral Researcher in Antiviral Drug Design 
+role: Research Associate in Medicinal Chemistry Projects
 
 # Organizations/Affiliations to show in About widget
 organizations:
