@@ -1,6 +1,6 @@
 ---
-title: "Rewriting the Rules of Molecular Glues"  
-summary: CRBN-targeting study expands the rules of protein degradation.
+title: "New Targets for Molecular Glues"  
+summary: Human proteasome data mining study expands the possibilites of protein degradation.
 date: 2025-07-19
 tags:
   - Biological Chemistry
@@ -9,7 +9,7 @@ tags:
   - Research
 ---
 
-Molecular glues are the undisputed stars of the world of targeted protein degraders. They are a hot topic, with many research articles devoted to their discovery and exploration. Despite their huge popularity in contemporary biological chemistry, our understanding of them is still limited. Typically, molecular glues are discovered through drug screening with extensive drug libraries, serendipity or data mining. At present, the amount of information available to guide their rational design is limited.
+Molecular glues are the stars of the world of targeted protein degraders. They are a hot topic, with many research articles describing their discovery and exploration. Despite their huge popularity in contemporary biological chemistry, our understanding of them is still limited. Typically, molecular glues are discovered through drug screening with extensive drug libraries, serendipity or data mining. At present, the amount of information available to guide their rational design is limited.
 
 In principle, molecular glues bring two enzymes into close proximity, gluing them together. In a new study published in the magazine *Science*, researchers from Monte Rosa Therapeutics (Boston, USA) screened the human genome for specific motifs — G loops — that could be targeted by molecular glues to bind CRBN to a protein. Following this in silico screening, some of the hits were validated and it was indeed found that molecular glues could induce proximity between CRBN and many of the predicted proteins. 
 
