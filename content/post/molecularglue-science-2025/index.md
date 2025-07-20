@@ -3,7 +3,7 @@ title: "New Targets for Molecular Glues"
 summary: Human proteasome data mining study expands the possibilites of protein degradation.
 date: 2025-07-19
 tags:
-  - Biological Chemistry
+  - Chemical Biology
   - Science
   - Publication of the Week
   - Research
